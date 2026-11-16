@@ -1,88 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:C9B6FF,50:F5C2E7,100:FFE5D9&section=header" width="100%"/>
+<a href="https://areesha-hanif-portfolio.vercel.app"><img src="assets/header.svg" width="100%" alt="Areesha Hanif — Software Engineer, WordPress & Frontend Developer"/></a>
 
-<h1 align="center">Areesha Hanif</h1>
-<p align="center"><b>WordPress & Frontend Developer • Software Engineer</b></p>
+<a href="https://areesha-hanif-portfolio.vercel.app"><img src="assets/sec-projects.svg" width="100%" alt="Selected projects"/></a>
 
-<div align="center">
+<p align="center">
+<a href="https://infinity360crm.com"><img src="assets/project-01.svg" width="49%" alt="Infinity360CRM"/></a>
+<a href="https://broadbandsnow.com"><img src="assets/project-02.svg" width="49%" alt="BroadbandSnow"/></a>
+<a href="https://infinityprotection.com"><img src="assets/project-03.svg" width="49%" alt="Infinity Protection"/></a>
+<a href="https://decorumclass.com"><img src="assets/project-04.svg" width="49%" alt="Decorum Class"/></a>
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=900&color=B497E7&center=true&vCenter=true&width=600&lines=hi%2C+i'm+areesha+%E2%8B%86%EF%BD%A1%CB%9A+%E2%98%81%EF%B8%8E;i+build+custom+wordpress+systems+%26+CRMs;founder+%26+ceo+%40+sylvado;currently+learning+python+%F0%9F%90%8D;coding+by+day%2C+crochet+by+night+%F0%9F%A7%B6" alt="Typing SVG" /></a>
+<img src="assets/process-tools.svg" width="100%" alt="My process and tools I use"/>
 
-<br/>
+<img src="assets/sec-glance.svg" width="100%" alt="At a glance"/>
+<img src="assets/glance.svg" width="100%" alt="4+ years remote · Founder & CEO of Sylvado · BS Software Engineering"/>
 
-<a href="https://areesha-hanif-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-C9B6FF?style=for-the-badge&logo=vercel&logoColor=3B2F4A"/></a>
-<a href="https://www.linkedin.com/in/areesha-hanif"><img src="https://img.shields.io/badge/LinkedIn-F5C2E7?style=for-the-badge&logo=linkedin&logoColor=3B2F4A"/></a>
-<a href="https://sylvado.com"><img src="https://img.shields.io/badge/Sylvado-FFE5D9?style=for-the-badge&logo=wordpress&logoColor=3B2F4A"/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areesha253&bg_color=0F1115&color=F2EFEA&line=0097A7&point=19B3C2&area=true&area_color=0A5A63&hide_border=true&title_color=C3CAD1&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity"/>
 
-<img src="https://komarev.com/ghpvc/?username=Areesha253&style=flat-square&color=C9B6FF&label=profile+views" />
+<a href="https://www.linkedin.com/in/areesha-hanif"><img src="assets/contact.svg" width="100%" alt="Let's create something amazing"/></a>
 
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/areesha-hanif"><img src="assets/btn-linkedin.svg" width="200"/></a>
+<a href="https://sylvado.com"><img src="assets/btn-sylvado.svg" width="200"/></a>
+<a href="https://areesha-hanif-portfolio.vercel.app"><img src="assets/btn-portfolio.svg" width="200"/></a>
+</p>
 
----
-
-### ⋆˚✿˖° about me
-
-```js
-const areesha = {
-  basedIn:      "Karachi, Pakistan 🇵🇰",
-  role:         ["WordPress & Frontend Developer", "Software Engineer"],
-  founderOf:    "Sylvado — custom WordPress systems",
-  buildsMostly: ["custom plugins", "CRMs", "WooCommerce stores", "multisite platforms"],
-  learning:     ["Python", "JavaScript (properly this time)", "PHP"],
-  studying:     "BS Software Engineering @ Virtual University",
-  workStyle:    "remote, 4+ years 🌙",
-  offline:      "crochet 🧶 + overthinking fonts",
-};
-```
-
----
-
-### 🛠️ tech stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=wordpress,php,html,css,js,tailwind,bootstrap,mysql&theme=light" />
-<br/>
-<img src="https://skillicons.dev/icons?i=python,laravel,git,github,figma,vercel,vscode&theme=light" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Elementor-F5C2E7?style=flat-square&logo=elementor&logoColor=3B2F4A"/>
-<img src="https://img.shields.io/badge/WooCommerce-C9B6FF?style=flat-square&logo=woocommerce&logoColor=3B2F4A"/>
-<img src="https://img.shields.io/badge/Shopify-FFE5D9?style=flat-square&logo=shopify&logoColor=3B2F4A"/>
-<img src="https://img.shields.io/badge/GoHighLevel-F5C2E7?style=flat-square&logoColor=3B2F4A"/>
-
-</div>
-
----
-
-### 🌷 things i've built
-
-| site | what it is |
-|---|---|
-| [infinity360crm.com](https://infinity360crm.com) | CRM & services platform |
-| [broadbandsnow.com](https://broadbandsnow.com) | live business site |
-| [infinityprotection.com](https://infinityprotection.com) | full build, solo dev |
-| [decorumclass.com](https://decorumclass.com) | donation site supporting training for young girls |
-
----
-
-### 📊 github activity
-
-<div align="center">
-
-
-<img src="https://streak-stats.demolab.com?user=Areesha253&hide_border=true&background=FFF8FB&ring=C9B6FF&fire=F5A3C7&currStreakLabel=B497E7&sideLabels=3B2F4A&currStreakNum=3B2F4A&sideNums=3B2F4A&dates=8A7A99" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areesha253&bg_color=FFF8FB&color=B497E7&line=F5A3C7&point=C9B6FF&area=true&area_color=F5C2E7&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-*open to remote roles & freelance collabs — say hi on [LinkedIn](https://www.linkedin.com/in/areesha-hanif) ✉️*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:FFE5D9,50:F5C2E7,100:C9B6FF&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
