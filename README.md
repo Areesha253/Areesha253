@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:C9B6FF,50:F5C2E7,100:FFE5D9&text=Areesha%20Hanif&fontColor=3B2F4A&fontSize=52&fontAlignY=38&desc=WordPress%20%26%20Frontend%20Developer%20%E2%80%A2%20Software%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:C9B6FF,50:F5C2E7,100:FFE5D9&section=header" width="100%"/>
+
+<h1 align="center">Areesha Hanif</h1>
+<p align="center"><b>WordPress & Frontend Developer • Software Engineer</b></p>
 
 <div align="center">
 
@@ -63,12 +66,10 @@ const areesha = {
 
 ---
 
-### 📊 github stats
+### 📊 github activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Areesha253&show_icons=true&hide_border=true&bg_color=FFF8FB&title_color=B497E7&icon_color=F5A3C7&text_color=3B2F4A&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areesha253&layout=compact&hide_border=true&bg_color=FFF8FB&title_color=B497E7&text_color=3B2F4A" />
 
 <img src="https://streak-stats.demolab.com?user=Areesha253&hide_border=true&background=FFF8FB&ring=C9B6FF&fire=F5A3C7&currStreakLabel=B497E7&sideLabels=3B2F4A&currStreakNum=3B2F4A&sideNums=3B2F4A&dates=8A7A99" />
 
